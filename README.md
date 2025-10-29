@@ -22,7 +22,7 @@ The final dataset was organized into `train/leaves` and `train/no_leaves` folder
 * **Data Split:** The dataset was split into 80% for training and 20% for validation using the `validation_split` argument.
 * **Performance:** The dataset was prefetched using `tf.data.AUTOTUNE` for efficient loading during training.
 
----
+---  
 
 ## 🤖 Model Architecture (Transfer Learning)
 
